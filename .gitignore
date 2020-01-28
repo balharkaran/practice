@@ -1,0 +1,15 @@
+# OS generated fies
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#Debug fies
+*.log
+*.sql
+
+#WordPress folders and files
+/uploads/
